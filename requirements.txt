@@ -1,0 +1,9 @@
+streamlit==1.25.0
+scipy==1.11.3
+imutils==0.5.4
+twilio==7.20.0
+numpy==1.26.1
+dlib==19.24.2
+opencv-python==4.8.1.78
+pyttsx3==2.90
+pygame==2.5.0
